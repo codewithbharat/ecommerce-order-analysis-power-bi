@@ -3,6 +3,9 @@
 ## Overview
 This repository contains an Ecommerce Sales Dashboard project built to analyze and visualize sales data. The dashboard provides insights into sales performance, profit trends, and customer behavior based on data from CSV files.
 
+## Dashboard Preview
+![Dashboard Preview](dashbaord%20preview.png)
+
 ## Files
 - `data/`
   - `Details.csv`: Contains detailed transaction data.
@@ -17,9 +20,6 @@ This repository contains an Ecommerce Sales Dashboard project built to analyze a
 - **Quantity by Payment Mode**: Pie chart illustrating payment method distribution.
 - **Quantity by Category**: Pie chart showing category-wise sales distribution.
 - **Profit by Month**: Bar chart tracking profit trends over months.
-
-## Dashboard Preview
-![Dashboard Preview](dashbaord%20preview.png)
 
 ## Setup
 1. Clone the repository:
