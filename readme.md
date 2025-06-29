@@ -19,7 +19,7 @@ This repository contains an Ecommerce Sales Dashboard project built to analyze a
 - **Profit by Month**: Bar chart tracking profit trends over months.
 
 ## Dashboard Preview
-![Dashboard Preview](data/dashboard_preview.png)
+![Dashboard Preview](dashbaord%20preview.png)
 
 ## Setup
 1. Clone the repository:
