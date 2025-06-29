@@ -7,7 +7,7 @@ This repository contains an Ecommerce Sales Dashboard project built to analyze a
 - `data/`
   - `Details.csv`: Contains detailed transaction data.
   - `Orders.csv`: Includes order information.
-  - `dashboard_preview.png`: A preview image of the dashboard.
+- `dashboard_preview.png`: A preview image of the dashboard.
 - `Order Analysis.pbix`: The Power BI file used to create the dashboard.
 
 ## Features
@@ -24,7 +24,7 @@ This repository contains an Ecommerce Sales Dashboard project built to analyze a
 ## Setup
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/codewithbharat/ecommerce-order-analysis-power-bi
    ```
 2. Open `Order Analysis.pbix` in Power BI to explore or modify the dashboard.
 3. Ensure the CSV files (`Details.csv` and `Orders.csv`) are placed in the `data/` directory for data loading.
